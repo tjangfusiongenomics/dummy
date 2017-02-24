@@ -1,0 +1,9 @@
+c:\users\tjang\documents\visual studio 2015\Projects\db_project\ClassLibrary1\bin\Debug\ClassLibrary1.dll.config
+c:\users\tjang\documents\visual studio 2015\Projects\db_project\ClassLibrary1\bin\Debug\ClassLibrary1.dll
+c:\users\tjang\documents\visual studio 2015\Projects\db_project\ClassLibrary1\bin\Debug\ClassLibrary1.pdb
+c:\users\tjang\documents\visual studio 2015\Projects\db_project\ClassLibrary1\bin\Debug\EntityFramework.dll
+c:\users\tjang\documents\visual studio 2015\Projects\db_project\ClassLibrary1\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\tjang\documents\visual studio 2015\Projects\db_project\ClassLibrary1\bin\Debug\EntityFramework.xml
+c:\users\tjang\documents\visual studio 2015\Projects\db_project\ClassLibrary1\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\tjang\documents\visual studio 2015\Projects\db_project\ClassLibrary1\obj\Debug\ClassLibrary1.dll
+c:\users\tjang\documents\visual studio 2015\Projects\db_project\ClassLibrary1\obj\Debug\ClassLibrary1.pdb
