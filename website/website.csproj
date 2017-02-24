@@ -299,18 +299,18 @@
     <Content Include="Scripts\jquery-1.10.2.min.map" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\ClassLibrary1\ClassLibrary1.csproj">
-      <Project>{0c1ef62f-0ddf-4df9-9a1f-c7ffc2fc19df}</Project>
-      <Name>ClassLibrary1</Name>
-    </ProjectReference>
-  </ItemGroup>
-  <ItemGroup>
     <EmbeddedResource Include="Migrations\tmp\201702241959208_InitialCreate.resx">
       <DependentUpon>201702241959208_InitialCreate.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Migrations\tmp\201702242003523_InitialCreate1.resx">
       <DependentUpon>201702242003523_InitialCreate1.cs</DependentUpon>
     </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\ClassLibrary1\ClassLibrary1.csproj">
+      <Project>{0c1ef62f-0ddf-4df9-9a1f-c7ffc2fc19df}</Project>
+      <Name>ClassLibrary1</Name>
+    </ProjectReference>
   </ItemGroup>
   <PropertyGroup>
     <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>
